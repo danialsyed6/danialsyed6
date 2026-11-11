@@ -2,7 +2,7 @@
 
 # Danial Syed
 
-**Senior Software Engineer at [MergeStack](https://mergestack.com)** · AI and geospatial SaaS for clients in oil & gas, insurance, logistics and retail
+**Senior Software Engineer at [MergeStack](https://www.mergestack.com/)** · AI and geospatial SaaS for clients in oil & gas, insurance, logistics and retail
 
 [Portfolio](https://danial-syed.netlify.app) · [LinkedIn](https://www.linkedin.com/in/danial-syed-7897174b/) · [Email](mailto:danialsyed66@gmail.com)
 
